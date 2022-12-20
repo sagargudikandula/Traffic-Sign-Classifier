@@ -1,1 +1,5 @@
-Python 3.6.7
+Operating system 		:   Windows 10
+Coding Language	  	:   Python
+Front-End			      :   tkinter
+Back-End			      :   Python
+Data Base		      	:   csv
